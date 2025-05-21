@@ -1,4 +1,5 @@
 version:3465
+betterBiomeBlendRadius:14
 autoJump:false
 operatorItemsTab:true
 autoSuggestions:true
@@ -15,7 +16,7 @@ reducedDebugInfo:false
 showSubtitles:false
 directionalAudio:false
 touchscreen:false
-fullscreen:false
+fullscreen:true
 bobView:true
 toggleCrouch:false
 toggleSprint:false
@@ -42,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/Unique Dark 1.20.1 (free).zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/VanillaEvolved_1.9.0.zip","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/Redstone Tweaks 2.3.zip","file/Dramatic Skys Demo 1.5.3.33.zip","file/EBE_1.20.x_v1.1.zip","file/SPEGG BP [1.20-1.x].zip","file/visual-armor-trims-v1.1-1.20.X.zip"]
-incompatibleResourcePacks:["file/VanillaEvolved_1.9.0.zip","file/Dramatic Skys Demo 1.5.3.33.zip","file/visual-armor-trims-v1.1-1.20.X.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/Unique Dark 1.20.1 (free).zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/VanillaEvolved_1.9.0.zip","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/Redstone Tweaks 2.3.zip","file/EBE_1.20.x_v1.1.zip","file/SPEGG BP [1.20-1.x].zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/Dramatic Skys Demo 1.5.3.33.zip","file/boss-refreshed-v1.3.zip"]
+incompatibleResourcePacks:["file/VanillaEvolved_1.9.0.zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/Dramatic Skys Demo 1.5.3.33.zip","file/boss-refreshed-v1.3.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -127,15 +128,16 @@ key_key.fabrishot.screenshot:key.keyboard.f2
 key_justzoom.keybinds.keybind.zoom:key.keyboard.c
 key_key.namepain.showculled:key.keyboard.unknown
 key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.unknown
+key_key.autohud.toggle-hud:key.keyboard.g
+key_key.autohud.peek-hud:key.keyboard.r
 key_key.bridgingmod.toggle_bridging:key.keyboard.comma
-key_key.cavedust.toggle:key.keyboard.keypad.add
-key_key.cavedust.reload:key.keyboard.keypad.enter
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
-key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.unknown
+key_key.fabricskyboxes.toggle.debug_hud:key.keyboard.f12
+key_key.fog.toggle:key.keyboard.unknown
 key_key.jade.config:key.keyboard.keypad.0
 key_key.jade.show_overlay:key.keyboard.keypad.1
 key_key.jade.toggle_liquid:key.keyboard.keypad.2

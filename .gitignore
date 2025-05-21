@@ -22,14 +22,19 @@
 /config/*
 
 # Config files
+!/config/autohud.json5
+!/config/bettergrass.json5
 !/config/borderlessmining.json
+!/config/bridgingmod.json
+!/config/cameraoverhaul.toml
 !/config/capes.json5
 !/config/cem.conf
 !/config/citresewn.json
 !/config/clienttweaks-common.toml
-!/config/controlify.json
 !/config/debugify.json
 !/config/dynamic_fps.json
+!/config/emojitype.json
+!/config/emotecraft.json
 !/config/enhanced_bes.properties
 !/config/entity_texture_features.json
 !/config/fabric_loader_dependencies.json
@@ -43,10 +48,13 @@
 !/config/modmenu.json
 !/config/moreculling.toml
 !/config/puzzle.json
-!/config/replaymod.json
-!/config/sodium-extra-options.json
 !/config/sodium-options.json
 !/config/xaerominimap.txt
+
+# Jade
+!/config/jade/
+/config/jade/*
+!/config/jade/jade.json
 
 # Just Zoom
 !/config/justzoom/
@@ -60,10 +68,10 @@
 !/config/NoChatReports/NCR-Common.json
 !/config/NoChatReports/NCR-Encryption.json
 
-# Pickup Notifier
-!/config/pickupnotifier/
-/config/pickupnotifier/*
-!/config/pickupnotifier/pickupnotifier-client.toml
+# Panorama Screens
+!/config/panorama_screens/
+/config/panorama_screens/*
+!/config/panorama_screens/settings.json
 
 # Simple Voice Chat
 !/config/voicechat/
