@@ -5,7 +5,7 @@
 	"supportedBridgeAxes": "HORIZONTAL",
 	"supportedBridgeAxesWhenCrouched": "FALLBACK",
 	"delayPostBridging": 4,
-	"showCrosshair": false,
+	"showCrosshair": true,
 	"showOutline": true,
 	"showOutlineEvenWhenNotBridging": false,
 	"nonBridgeRespectsCrouchRules": true,
