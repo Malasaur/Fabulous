@@ -32,7 +32,7 @@ glintStrength:0.75
 damageTiltStrength:1.0
 highContrast:false
 gamma:0.5
-renderDistance:12
+renderDistance:10
 simulationDistance:6
 entityDistanceScaling:0.75
 guiScale:3
@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/Unique Dark 1.20.1 (free).zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","file/VanillaEvolved_1.9.0.zip","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip","file/EBE_1.20.x_v1.1.zip","file/Redstone Tweaks 2.3.zip","file/SPEGG BP [1.20-1.x].zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/Dramatic Skys Demo 1.5.3.33.zip","file/boss-refreshed-v1.3.zip"]
-incompatibleResourcePacks:["file/VanillaEvolved_1.9.0.zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/Dramatic Skys Demo 1.5.3.33.zip","file/boss-refreshed-v1.3.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Icons v.1.9.1§7.zip","file/Icons+Menu+(Put+Above+Icons).zip","file/Unique Dark 1.20.1 (free).zip","file/FreshAnimations_v1.9.2.zip","file/FA+All_Extensions-v1.4.zip","continuity:glass_pane_culling_fix","continuity:default","file/VanillaEvolved_1.9.0.zip","file/Fast Better Grass.zip","file/EBE_1.20.x_v1.1.zip","file/Redstone Tweaks 2.3.zip","file/SPEGG BP [1.20-1.x].zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/Dramatic Skys Demo 1.5.3.33.zip"]
+incompatibleResourcePacks:["file/VanillaEvolved_1.9.0.zip","file/visual-armor-trims-v1.1-1.20.X.zip","file/Dramatic Skys Demo 1.5.3.33.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
@@ -188,7 +188,7 @@ key_key.cycleRight:key.keyboard.h
 key_seamless_loading_screen.keybind.config:key.keyboard.unknown
 key_key.push_to_talk:key.keyboard.unknown
 key_key.whisper:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.m
+key_key.mute_microphone:key.keyboard.x
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.hide_icons:key.keyboard.h
 key_key.voice_chat:key.keyboard.v
