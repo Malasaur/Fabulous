@@ -72,6 +72,9 @@
 # Fastquit
 !/config/fastquit.toml
 
+# ImmediatelyFast
+!/config/immediatelyfast.json
+
 # Iris
 !/config/iris.properties
 
